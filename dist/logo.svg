@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 120">
+  <defs>
+    <linearGradient id="g" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#8CC63F"/>
+      <stop offset="100%" stop-color="#6BA832"/>
+    </linearGradient>
+  </defs>
+  <!-- A1 icon -->
+  <path d="M45 95 L75 25 L95 25 L125 95 L105 95 L98 75 L72 75 L65 95 Z M78 58 L92 58 L85 38 Z" fill="#fff" stroke="#ddd" stroke-width="1"/>
+  <rect x="88" y="25" width="18" height="70" rx="2" fill="url(#g)"/>
+  <path d="M55 55 Q85 35 115 55" stroke="url(#g)" stroke-width="8" fill="none" stroke-linecap="round"/>
+  <!-- Text -->
+  <text x="140" y="58" font-family="Segoe UI, Arial, sans-serif" font-size="28" font-weight="800" fill="#222">Admedia</text>
+  <text x="248" y="58" font-family="Segoe UI, Arial, sans-serif" font-size="28" font-weight="800" fill="#8CC63F">1.com</text>
+  <text x="140" y="82" font-family="Segoe UI, Arial, sans-serif" font-size="11" font-weight="600" fill="#555" letter-spacing="3">WATCH " CLICK " EARN</text>
+</svg>
