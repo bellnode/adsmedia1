@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 100" role="img" aria-label="AdsMedia1">
+  <!-- White logo for navy / dark backgrounds -->
+  <circle cx="48" cy="50" r="38" fill="#fff"/>
+  <path d="M28 72 L48 22 L58 22 L78 72 H66 L62 60 H34 L30 72 Z M38 48 H58 L48 28 Z" fill="#0F172A"/>
+  <path d="M40 70 L70 28" stroke="#0F172A" stroke-width="7" stroke-linecap="round"/>
+  <path d="M68 24 L74 18 L76 26 L84 28 L76 32 L74 40 L70 32 L62 28 Z" fill="#0F172A"/>
+  <text x="100" y="48" font-family="Segoe UI, Arial, sans-serif" font-size="32" font-weight="800" fill="#fff">AdsMedia1</text>
+  <text x="100" y="74" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="500" fill="rgba(255,255,255,0.8)">Earn More, Every Day</text>
+</svg>
